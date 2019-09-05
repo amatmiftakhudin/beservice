@@ -1,0 +1,21 @@
+{
+  "name": "beservice",
+  "version": "0.0.0",
+  "description": "Back End Service using Expressjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/amatmiftakhudin/beservice"
+  },
+  "keywords": [
+    "Back",
+    "End",
+    "using",
+    "expressjs"
+  ],
+  "author": "Amat Miftakhudin",
+  "license": "ISC"
+}
